@@ -1,6 +1,27 @@
-body{
-  background: red;
+*{
+  box-sizing: border-box;
 }
-h3{
-  margin-top: 40px;
+
+h1{
+  color: red;
+  font-size: 50px;
+  background-color: yellow;
+}
+
+#breakingNews{
+  width: 200px;
+  height: 200px;
+}
+
+body{
+  background-image: url(planetEarth.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#loginCotnainer{
+  text-align: center;
+  margin-top: 50px;
+}
+span{
+  background-color: yellow;
 }

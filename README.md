@@ -1,4 +1,5 @@
-![21 Savage](public/21savage.jpg)
+# DEMO DAY PROJECT
+1. This is phase #1 of my final Demo Day Proejct
 
 ## Installation
 
@@ -7,5 +8,5 @@
 
 ## Usage
 
-1. run `npm run savage`
+1. run `node server.js`
 2. Navigate to `localhost:3000`
